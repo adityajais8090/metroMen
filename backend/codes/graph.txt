@@ -1,0 +1,1041 @@
+260
+Shaheed Sthal
+Hindon River
+2
+red
+Hindon River
+Arthala
+2
+red
+Arthala
+Mohan Nagar
+2
+red
+Mohan Nagar
+Shyam park
+2
+red
+Shyam park
+Major Mohit Sharma
+2
+red
+Major Mohit Sharma
+Raj Bagh
+2
+red
+Raj Bagh
+Shaheed Nagar
+2
+red
+Shaheed Nagar
+Dilshad Garden
+2
+red
+Dilshad Garden
+Jhil Mil
+2
+red
+Jhil Mil
+Mansarovar Park
+2
+red
+Mansarovar Park
+Shahdara
+2
+red
+Shahdara
+Welcome
+2
+red
+Welcome
+Seelampur
+2
+red
+Seelampur
+Shastri Park
+2
+red
+Shastri Park
+Kashmere Gate
+3
+red
+Kashmere Gate
+Tis Hazari
+2
+red
+Tis Hazari
+Pul Bangash
+2
+red
+Pul Bangash
+Pratap Nagar
+2
+red
+Pratap Nagar
+Shastri Nagar
+2
+red
+Shastri Nagar
+Inderlok
+2
+red
+Inderlok
+Kanhaiya Nagar
+2
+red
+Kanhaiya Nagar
+Keshav Puram
+1
+red
+Keshav Puram
+Netaji Subash Place
+1
+red
+Netaji Subash Place
+Kohat Enclave
+3
+red
+Kohat Enclave
+Pitam Pura
+3
+red
+Pitam Pura
+Rohini East
+1
+red
+Rohini East
+Rohini West
+2
+red
+Rohini West
+Rithala
+2
+red
+Samaypur Badli
+Rohini Sector
+2
+yellow
+Rohini Sector
+Haiderpur Badli Mor
+3
+yellow
+Haiderpur Badli Mor
+Jahangirpuri
+2
+yellow
+Jahangirpuri
+Adarsh Nagar
+2
+yellow
+Adarsh Nagar
+Azadpur
+2
+yellow
+Azadpur
+Model Town
+2
+yellow
+Model Town
+Guru Tegh Bahadur Nagar
+2
+yellow
+Guru Tegh Bahadur Nagar
+Vishwavidyalaya
+2
+yellow
+Vishwavidyalaya
+Vidhan Sabha
+2
+yellow
+Vidhan Sabha
+Civil Lines
+2
+yellow
+Civil Lines
+Kashmere Gate
+2
+yellow
+Kashmere Gate
+Chandni Chowk
+2
+yellow
+Chandni Chowk
+Chawri Bazar
+2
+yellow
+Chawri Bazar
+New Delhi
+2
+yellow
+New Delhi
+Rajiv Chowk
+3
+yellow
+Rajiv Chowk
+Patel Chowk
+3
+yellow
+Patel Chowk
+Central Secretariat
+3
+yellow
+Central Secretariat
+Udyog Bhawan
+2
+yellow
+Udyog Bhawan
+Lok Kalyan Marg
+2
+yellow
+Lok Kalyan Marg
+Jorbagh
+2
+yellow
+Jorbagh
+Dilli Haat INA
+2
+yellow
+Dilli Haat INA
+AIIMS
+3
+yellow
+AIIMS
+Green Park
+3
+yellow
+Green Park
+Hauz Khas
+3
+yellow
+Hauz Khas
+Malviya Nagar
+2
+yellow
+Malviya Nagar
+Saket
+2
+yellow
+Saket
+Qutab Minar
+2
+yellow
+Qutab Minar
+Chhattarpur
+2
+yellow
+Chhattarpur
+Sultanpur
+2
+yellow
+Sultanpur
+Ghitorni
+2
+yellow
+Ghitorni
+Arjan Garh
+2
+yellow
+Arjan Garh
+Guru Dronacharya
+2
+yellow
+Guru Dronacharya
+Sikandarpur
+2
+yellow
+Sikandarpur
+MG Road
+3
+yellow
+MG Road
+IFFCO Chowk
+3
+yellow
+IFFCO Chowk
+MILLENNIUM CITY CENTRE GURUGRAM
+3
+yellow
+Kashmere Gate
+Lal Quila
+2
+violet
+Lal Quila
+Jama Masjid
+2
+violet
+Jama Masjid
+Delhi Gate
+2
+violet
+Delhi Gate
+ITO
+2
+violet
+ITO
+Mandi House
+2
+violet
+Mandi House
+Janpath
+2
+violet
+Janpath
+Central Secretariat
+2
+violet
+Central Secretariat
+Khan Market
+2
+violet
+Khan Market
+Jawaharlal Nehru Stadium
+2
+violet
+Jawaharlal Nehru Stadium
+Jangpura
+2
+violet
+Jangpura
+Lajpat Nagar
+2
+violet
+Lajpat Nagar
+Moolchand
+2
+violet
+Moolchand
+Kailash Colony
+2
+violet
+Kailash Colony
+Nehru Place
+2
+violet
+Nehru Place
+Kalkaji Mandir
+2
+violet
+Kalkaji Mandir
+Govind Puri
+2
+violet
+Govind Puri
+Okhla
+2
+violet
+Okhla
+Jasola
+2
+violet
+Jasola
+Sarita Vihar
+2
+violet
+Sarita Vihar
+Mohan Estate
+2
+violet
+Mohan Estate
+Tughlakabad
+2
+violet
+Tughlakabad
+Badarpur Border
+2
+violet
+Badarpur Border
+Sarai
+2
+violet
+Sarai
+N.H.P.C. Chowk
+2
+violet
+N.H.P.C. Chowk
+Mewala Maharajpur
+2
+violet
+Mewala Maharajpur
+Sector 28 Faridabad
+2
+violet
+Sector 28 Faridabad
+Badkal Mor
+2
+violet
+Badkal Mor
+Old Faridabad
+2
+violet
+Old Faridabad
+Neelam Chowk Ajronda
+2
+violet
+Neelam Chowk Ajronda
+Bata Chowk
+2
+violet
+Bata Chowk
+Escorts Mujesar
+2
+violet
+Escorts Mujesar
+Sant Surdas - Sihi
+2
+violet
+Sant Surdas - Sihi
+Raja Nahar Singh
+2
+violet
+Janak Puri West
+Dabri Mor
+2
+magenta
+Dabri Mor
+Dashrath Puri
+2
+magenta
+Dashrath Puri
+Palam
+2
+magenta
+Palam
+Sadar Bazaar Cantonment
+2
+magenta
+Sadar Bazaar Cantonment
+Terminal 1 IGI Airport
+2
+magenta
+Terminal 1 IGI Airport
+Shankar Vihar
+2
+magenta
+Shankar Vihar
+Vasant Vihar
+2
+magenta
+Vasant Vihar
+Munirka
+2
+magenta
+Munirka
+RK Puram
+2
+magenta
+RK Puram
+IIT Delhi
+2
+magenta
+IIT Delhi
+Hauz Khas
+2
+magenta
+Hauz Khas
+Panchsheel Park
+2
+magenta
+Panchsheel Park
+Chirag Delhi
+2
+magenta
+Chirag Delhi
+Greater Kailash
+2
+magenta
+Greater Kailash
+Nehru Enclave
+2
+magenta
+Nehru Enclave
+Kalkaji Mandir
+2
+magenta
+Kalkaji Mandir
+Okhla NSIC
+2
+magenta
+Okhla NSIC
+Sukhdev Vihar
+2
+magenta
+Sukhdev Vihar
+JAMIA MILLIA ISLAMIA
+2
+magenta
+JAMIA MILLIA ISLAMIA
+Okhla Vihar
+2
+magenta
+Okhla Vihar
+Jasola Vihar Shaheen Bagh
+2
+magenta
+Jasola Vihar Shaheen Bagh
+Kalindi Kunj
+2
+magenta
+Kalindi Kunj
+Okhla Bird Sanctuary
+2
+magenta
+Okhla Bird Sanctuary
+Botanical Garden
+2
+magenta
+Majlis Park
+Azadpur
+2
+pink
+Azadpur
+Shalimar Bagh
+2
+pink
+Shalimar Bagh
+Netaji Subash Place
+2
+pink
+Netaji Subash Place
+Shakurpur
+2
+pink
+Shakurpur
+Punjabi Bagh West
+2
+pink
+Punjabi Bagh West
+ESI BASAI DARAPUR
+2
+pink
+ESI BASAI DARAPUR
+Rajouri Garden 
+2
+pink
+Rajouri Garden 
+Maya Puri
+2
+pink
+Maya Puri
+Naraina Vihar
+2
+pink
+Naraina Vihar
+Delhi Cantt
+2
+pink
+Delhi Cantt
+Durgabai Deshmukh South Campus
+2
+pink
+Durgabai Deshmukh South Campus
+Sir Vishweshwaraiah Moti Bagh
+2
+pink
+Sir Vishweshwaraiah Moti Bagh
+Bhikaji Cama Place
+2
+pink
+Bhikaji Cama Place
+Sarojini Nagar
+2
+pink
+Sarojini Nagar
+Dilli Haat INA
+2
+pink
+Dilli Haat INA
+South Extension
+2
+pink
+South Extension
+Lajpat Nagar
+2
+pink
+Lajpat Nagar
+Vinobapuri
+2
+pink
+Vinobapuri
+Ashram
+2
+pink
+Ashram
+Sarai Kale Khan Hazrat Nizamuddin
+2
+pink
+Sarai Kale Khan Hazrat Nizamuddin
+Mayur Vihar Phase-1
+2
+pink
+Mayur Vihar Phase-1
+Mayur Vihar Pocket I
+2
+pink
+Mayur Vihar Pocket I
+Trilokpuri Sanjay Lake
+2
+pink
+Trilokpuri Sanjay Lake
+Vinod Nagar East
+2
+pink
+Vinod Nagar East
+Mandawali - West Vinod Nagar
+2
+pink
+Mandawali - West Vinod Nagar
+IP Extension
+2
+pink
+IP Extension
+Anand Vihar
+2
+pink
+Anand Vihar
+Karkar Duma
+2
+pink
+Karkar Duma
+Karkarduma Court
+2
+pink
+Karkarduma Court
+Krishna Nagar
+2
+pink
+Krishna Nagar
+East Azad Nagar
+2
+pink
+East Azad Nagar
+Welcome
+2
+pink
+Welcome
+Jaffrabad
+2
+pink
+Jaffrabad
+MAUJPUR-BABARPUR
+2
+pink
+MAUJPUR-BABARPUR
+Gokulpuri
+2
+pink
+Gokulpuri
+Johri Enclave
+2
+pink
+Johri Enclave
+Shiv Vihar
+2
+pink
+Dwarka Sector 21
+Dwarka Sector 8
+2
+blue
+Dwarka Sector 8
+Dwarka Sector 9
+2
+blue
+Dwarka Sector 9
+Dwarka Sector 10
+2
+blue
+Dwarka Sector 10
+Dwarka Sector 11
+2
+blue
+Dwarka Sector 11
+Dwarka Sector 12
+2
+blue
+Dwarka Sector 12
+Dwarka Sector 13
+2
+blue
+Dwarka Sector 13
+Dwarka Sector 14
+2
+blue
+Dwarka Sector 14
+Dwarka
+2
+blue
+Dwarka
+Dwarka Mor
+2
+blue
+Dwarka Mor
+Nawada
+2
+blue
+Nawada
+Uttam Nagar West
+2
+blue
+Uttam Nagar West
+Uttam Nagar East
+2
+blue
+Uttam Nagar East
+Janak Puri West
+2
+blue
+Janak Puri West
+Janak Puri East
+2
+blue
+Janak Puri East
+Tilak Nagar
+2
+blue
+Tilak Nagar
+Subhash Nagar
+2
+blue
+Subhash Nagar
+Tagore Garden
+2
+blue
+Tagore Garden
+Rajouri Garden
+2
+blue
+Rajouri Garden
+Ramesh Nagar
+2
+blue
+Ramesh Nagar
+Moti Nagar
+2
+blue
+Moti Nagar
+Kirti Nagar
+2
+blue
+Kirti Nagar
+Shadipur
+2
+blue
+Shadipur
+Patel Nagar
+2
+blue
+Patel Nagar
+Rajendra Place
+2
+blue
+Rajendra Place
+Karol Bagh
+2
+blue
+Karol Bagh
+Jhandewalan
+2
+blue
+Jhandewalan
+R K Ashram Marg
+2
+blue
+R K Ashram Marg
+Rajiv Chowk
+2
+blue
+Rajiv Chowk
+Barakhamba
+2
+blue
+Barakhamba
+Mandi House
+2
+blue
+Mandi House
+Supreme Court
+2
+blue
+Supreme Court
+Indraprastha
+2
+blue
+Indraprastha
+Yamuna Bank
+2
+blue
+Yamuna Bank
+Akshardham
+2
+blue
+Akshardham
+Mayur Vihar Phase-1
+2
+blue
+Mayur Vihar Phase-1
+Mayur Vihar Extention
+2
+blue
+Mayur Vihar Extention
+New Ashok Nagar
+2
+blue
+New Ashok Nagar
+Noida Sector 15
+2
+blue
+Noida Sector 15
+Noida Sector 16
+2
+blue
+Noida Sector 16
+Noida Sector 18
+2
+blue
+Noida Sector 18
+Botanical Garden
+2
+blue
+Botanical Garden
+Golf Course
+2
+blue
+Golf Course
+Noida City Center
+2
+blue
+Noida City Center
+Noida Sector 34
+2
+blue
+Noida Sector 34
+Noida Sector 52
+2
+blue
+Noida Sector 52
+Noida Sector 61
+2
+blue
+Noida Sector 61
+Noida Sector 59
+2
+blue
+Noida Sector 59
+Noida Sector 62
+2
+blue
+Noida Sector 62
+Noida Electronic City
+2
+blue
+Yamuna Bank
+Laxmi Nagar
+2
+blue1
+Laxmi Nagar
+Nirman Vihar
+2
+blue1
+Nirman Vihar
+Preet Vihar
+2
+blue1
+Preet Vihar
+Karkar Duma
+2
+blue1
+Karkar Duma
+Anand Vihar
+2
+blue1
+Anand Vihar
+Kaushambi
+2
+blue1
+Kaushambi
+Vaishali
+2
+blue1
+Kirti Nagar
+Inderlok
+2
+green
+Inderlok
+Satguru Ram Singh Marg
+2
+green
+Satguru Ram Singh Marg
+Ashok Park Main
+2
+green
+Ashok Park Main
+Punjabi Bagh
+2
+green
+Punjabi Bagh
+Shivaji Park
+2
+green
+Shivaji Park
+Madipur
+2
+green
+Madipur
+Paschim Vihar (East)
+2
+green
+Paschim Vihar (East)
+Paschim Vihar (West)
+2
+green
+Paschim Vihar (West)
+Peera Garhi
+2
+green
+Peera Garhi
+Udyog Nagar
+2
+green
+Udyog Nagar
+Maharaja Surajmal Stadium
+2
+green
+Maharaja Surajmal Stadium
+Nangloi
+2
+green
+Nangloi
+Nangloi Railway Station
+2
+green
+Nangloi Railway Station
+Rajdhani Park
+2
+green
+Rajdhani Park
+Mundka
+2
+green
+Mundka
+Mundka Industrial Area
+2
+green
+Mundka Industrial Area
+Ghevra Metro station
+2
+green
+Ghevra Metro station
+Tikri Kalan
+2
+green
+Tikri Kalan
+Tikri Border
+2
+green
+Tikri Border
+Pandit Shree Ram Sharma
+2
+green
+Pandit Shree Ram Sharma
+Bahdurgarh City
+2
+green
+Bahdurgarh City
+Brigadier Hoshiar Singh
+2
+green
+New Delhi-Airport Express
+Shivaji Stadium
+2
+airport
+Shivaji Stadium
+Dhaula Kuan
+2
+airport
+Dhaula Kuan
+Delhi Aerocity
+2
+airport
+Delhi Aerocity
+IGI Airport
+2
+airport
+IGI Airport
+Dwarka Sector 21
+2
+airport
+Sector 55-66
+Sector 54 Chowk
+2
+rapid
+Sector 54 Chowk
+Sector 53-54
+2
+rapid
+Sector 53-54
+Sector 42-43
+2
+rapid
+Sector 42-43
+Phase 1
+2
+rapid
+Phase 1
+Sikandarpur
+2
+rapid
+Sikandarpur
+Phase 2
+2
+rapid
+Phase 2
+Belvedere Towers
+2
+rapid
+Belvedere Towers
+Cyber City
+2
+rapid
+Cyber City
+Moulsari Avenue
+2
+rapid
+Moulsari Avenue
+Phase 3
+2
+rapid
+Dwarka
+Nangli
+2
+grey
+Nangli
+Najafgarh
+2
+grey
+Najafgarh
+Dhansa Bus Stand
+2
+grey
+New Delhi
+Shivaji Stadium
+2
+orange
+Shivaji Stadium
+Dhaula Kuan
+2
+orange
+Dhaula Kuan
+Delhi Aerocity
+2
+orange
+Delhi Aerocity
+Airport (T-3)
+2
+orange
+Airport (T-3)
+Dwarka Sector - 21
+2
+orange
+Dwarka Sector - 21
+Yashobhoomi Dwarka Sector - 25
+2
+orange
