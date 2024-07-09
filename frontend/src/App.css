@@ -1,0 +1,80 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .form {
+    margin-bottom: 20px;
+  }
+  
+  .details {
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .line.red {
+    background-color: #FF0000; /* Red Line */
+  }
+  
+  .line.yellow {
+    background-color: #FFFF00; /* Yellow Line */
+  }
+  
+  .line.blue {
+    background-color: #0000FF; /* Blue Line */
+  }
+  
+  .line.green {
+    background-color: #008000; /* Green Line */
+  }
+  
+  .line.violet {
+    background-color: #EE82EE; /* Violet Line */
+  }
+  
+  .line.airport {
+    background-color: #A9A9A9; /* Airport Express Line */
+  }
+  
+  .line.pink {
+    background-color: #FFC0CB; /* Pink Line */
+  }
+  
+  .line.magenta {
+    background-color: #FF00FF; /* Magenta Line */
+  }
+  
+  .line.grey {
+    background-color: #808080; /* Grey Line */
+  }
+  
+  /* Additional styling to make the text readable */
+  .line.red, .line.yellow, .line.blue, .line.green, .line.violet, .line.airport, .line.pink, .line.magenta, .line.grey {
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .info {
+    margin-bottom: 20px;
+  }
+  
+  .info p {
+    font-size: 1.2em;
+    margin: 5px 0;
+  }
+  
