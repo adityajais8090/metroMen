@@ -2,6 +2,7 @@ import { useState } from 'react';
 import './App.css';
 import axios from 'axios';
 
+
 function App() {
   const [from, setFrom] = useState('');
   const [to, setTo] = useState('');
@@ -10,21 +11,22 @@ function App() {
   const handleSubmit = async (event) => {
     event.preventDefault();
 
-    const input = `${from}\n${to}`;
-    const payload = { input };
+    const input = `${from}\\n${to}`;
+    const language = 'cpp';
+    const payload = { 
+      language,
+      input };
 
     try {
-      const response = await axios.post('http://localhost:5000/run', payload, {
+      const response = await axios.post( import.meta.env.VITE_BACKEND_URL , payload, {
         headers: {
-          "Content-Type": "application/json",
+          "Content-Type": "application/json; charset=utf-8",
         },
       });
-
-      if (!response.data.success) {
-        throw new Error('Network response was not ok');
-      }
-
+     console.log("Response : ", response.data);
+      
       const output_result = response.data.output;
+      console.log("Result :" , output_result);
       setResult(output_result);
     } catch (error) {
       console.error('Error:', error);
@@ -78,8 +80,8 @@ function App() {
       {parsedResult.stations.length > 0 && (
         <div className="details">
           <div className="info">
-            <p><strong>Source:</strong> {parsedResult.info[0].split(': ')[1]}</p>
-            <p><strong>Destination:</strong> {parsedResult.info[1].split(': ')[1]}</p>
+            <p><strong>Source:</strong> {parsedResult.info[0]}</p>
+            <p><strong>Destination:</strong> {parsedResult.info[1]}</p>
             <p><strong>Shortest time:</strong> {parsedResult.info[2].split(': ')[1]}</p>
             <p><strong>Minimum interchanges:</strong> {parsedResult.info[3].split(': ')[1]}</p>
           </div>

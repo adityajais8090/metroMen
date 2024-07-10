@@ -4,6 +4,8 @@
   "description": "backend of metromen, helps find pathway between src and destination",
   "main": "index.js",
   "scripts": {
+     "start": "node server.js",
+    "postinstall": "./install_gpp.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

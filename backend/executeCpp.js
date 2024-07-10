@@ -19,7 +19,7 @@ const executeCpp = ( filepath, inputPath ) =>{
   
     const jobID = path.basename(inputPath).split(".")[0];
     console.log(jobID);
-    const filename = `${jobID}.exe`;
+    const filename = `${jobID}.out`;
     const outpath = path.join(outputPath, filename);
     
     console.log("This is my outpath : " , outpath);
@@ -27,7 +27,7 @@ const executeCpp = ( filepath, inputPath ) =>{
 
 
     return new Promise ( (resolve,reject) =>{
-      const command = `g++ ${filepath} -o ${outpath} && cd ${outputPath} && .\\${filename} < ${inputPath}`;
+      const command = `g++ ${filepath} -o ${outpath} && cd ${outputPath} && ./${filename} < ${inputPath}`;
         exec(command,
         (error, stdout, stderr) => {
           if(error){
