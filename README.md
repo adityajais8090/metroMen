@@ -111,10 +111,6 @@ Contributions are welcome!
 
 ---
 
-## 📜 License  
-This project is licensed under the **MIT License**.  
-
----
 
 ## 📬 Contact  
 For queries or feedback, reach out at **[a_jaiswal@ece.iitr.ac.in](mailto:a_jaiswal@ece.iitr.ac.in)**.  
