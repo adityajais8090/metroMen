@@ -1,4 +1,4 @@
-cat <<EOL > README.md
+
 # 🧑‍💻 Metro Route Optimization System
 
 ## 🌟 Overview  
