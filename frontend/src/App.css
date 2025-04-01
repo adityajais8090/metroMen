@@ -1,80 +1,132 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background: linear-gradient(90deg, #d32f2f, #b71c1c);
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
 .container {
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-  
-  .form {
-    margin-bottom: 20px;
-  }
-  
-  .details {
-    margin-top: 20px;
-  }
-  
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  
-  table, th, td {
-    border: 1px solid black;
-  }
-  
-  th, td {
-    padding: 8px;
-    text-align: left;
-  }
-  
-  .line.red {
-    background-color: #FF0000; /* Red Line */
-  }
-  
-  .line.yellow {
-    background-color: #FFFF00; /* Yellow Line */
-  }
-  
-  .line.blue {
-    background-color: #0000FF; /* Blue Line */
-  }
-  
-  .line.green {
-    background-color: #008000; /* Green Line */
-  }
-  
-  .line.violet {
-    background-color: #EE82EE; /* Violet Line */
-  }
-  
-  .line.airport {
-    background-color: #A9A9A9; /* Airport Express Line */
-  }
-  
-  .line.pink {
-    background-color: #FFC0CB; /* Pink Line */
-  }
-  
-  .line.magenta {
-    background-color: #FF00FF; /* Magenta Line */
-  }
-  
-  .line.grey {
-    background-color: #808080; /* Grey Line */
-  }
-  
-  /* Additional styling to make the text readable */
-  .line.red, .line.yellow, .line.blue, .line.green, .line.violet, .line.airport, .line.pink, .line.magenta, .line.grey {
-    color: #FFFFFF;
-    font-weight: bold;
-    text-align: center;
-  }
-  
-  .info {
-    margin-bottom: 20px;
-  }
-  
-  .info p {
-    font-size: 1.2em;
-    margin: 5px 0;
-  }
-  
+  max-width: 700px;
+  margin: 30px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  font-weight: bold;
+}
+
+.form-group select {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(90deg, #1976d2, #0d47a1);
+  color: white;
+  border: none;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background: linear-gradient(90deg, #155aa8, #0a3486);
+}
+
+.details {
+  margin-top: 20px;
+  padding: 20px;
+  background: #f9f9f9;
+  border-radius: 10px;
+}
+
+.details h3 {
+  margin-top: 10px;
+}
+
+.station {
+  list-style: none;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 5px;
+  background: #e3f2fd;
+}
+
+.yellow-line {
+  background: #fffde7;
+  border-left: 5px solid #fbc02d;
+}
+
+.blue-line {
+  background: #e3f2fd;
+  border-left: 5px solid #0288d1;
+}
+
+.red-line {
+  background: #ffebee;
+  border-left: 5px solid #d32f2f;
+}
+
+.green-line {
+  background: #e8f5e9;
+  border-left: 5px solid #388e3c;
+}
+
+.magenta-line {
+  background: #fce4ec;
+  border-left: 5px solid #c2185b;
+}
+
+.violet-line {
+  background: #ede7f6;
+  border-left: 5px solid #673ab7;
+}
+
+.orange-line {
+  background: #fff3e0;
+  border-left: 5px solid #f57c00;
+}
+
+.pink-line {
+  background: #f8bbd0;
+  border-left: 5px solid #e91e63;
+}
+
+.aqua-line {
+  background: #e0f7fa;
+  border-left: 5px solid #00bcd4;
+}
+
+.brown-line {
+  background: #efebe9;
+  border-left: 5px solid #5d4037;
+}
+
+.grey-line {
+  background: #f5f5f5;
+  border-left: 5px solid #616161;
+}
+
