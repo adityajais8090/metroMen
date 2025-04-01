@@ -1,6 +1,6 @@
-
 import { useState } from "react";
 import axios from "axios";
+import Loader from "./SpinnerLoader"; // Corrected import
 import "./App.css";
 
 function App() {
@@ -30,15 +30,16 @@ function App() {
     "Shaheed Nagar", "Shyam Park", "Sikandarpur", "Sukhdev Vihar", "Sultanpur", 
     "Tis Hazari", "Terminal 1 IGI Airport", "Tughlakabad", "Udyog Bhawan", 
     "Vasant Vihar", "Vidhan Sabha", "Vishwavidyalaya", "Welcome"
-
-];
+  ];
 
   const [from, setFrom] = useState(stations[0]);
   const [to, setTo] = useState(stations[1]);
   const [result, setResult] = useState(null);
+  const [loading, setLoading] = useState(false); // Loader state
 
   const handleSubmit = async (event) => {
     event.preventDefault();
+    setLoading(true); // Start loading
     const input = `${from}\\n${to}`;
     const language = "cpp";
     const payload = { language, input };
@@ -57,6 +58,8 @@ function App() {
     } catch (error) {
       console.error("Error:", error);
       setResult(null);
+    } finally {
+      setLoading(false); // Stop loading
     }
   };
 
@@ -103,7 +106,10 @@ function App() {
           <button type="submit">Get Route</button>
         </form>
 
-        {result && (
+        {/* Show Loader while fetching data */}
+        {loading && <Loader />}
+
+        {!loading && result && (
           <div className="details">
             <h2>Route Details</h2>
             <p><strong>From:</strong> {result.source}</p>
